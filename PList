@@ -19,7 +19,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>http://203.86.8.92:8042/LEAP/KCKP/Web/bjkckp/img/ctlogo.png</string>
+                        <string>http://203.86.8.92:8042/LEAP/KCKP/Web/xjkckp/wlmqkckp/img/ctlogo.png</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -27,7 +27,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>http://203.86.8.92:8042/LEAP/KCKP/Web/bjkckp/img/ctlogo.png</string>
+                        <string>http://203.86.8.92:8042/LEAP/KCKP/Web/xjkckp/wlmqkckp/img/ctlogo.png</string>
                     </dict>
                 </array>
                 <key>metadata</key>
